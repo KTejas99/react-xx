@@ -20,7 +20,7 @@ This repository focuses on building a strong foundation in DOM manipulation by w
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Clone the repository:
 ```bash
